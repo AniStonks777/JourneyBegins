@@ -1,3 +1,4 @@
 # JourneyBegins
-This is my first Git hub repository which I made specially to learn more about github
+This is my first Git hub repository which I made specially to learn more about github.
+<br>
 Author - AniStonks777
